@@ -1,10 +1,10 @@
 # Todo-List
 A simple todo list made with HTML, CSS, Javascript and jQuery
 
-# Live demo:
+## Live demo:
 https://marko-zc.github.io/Todo-List/
 
-# Made with:
+## Made with:
 - HTML
 - CSS
 - Javascript
